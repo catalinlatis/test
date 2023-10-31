@@ -1,0 +1,259 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F6F6FA;
+    
+}
+
+.app-wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    background-color: #FFF;
+}
+
+.about-me-section{
+
+}
+
+/* Sidebar Styles */
+.sidebar-image{
+    margin-top: 40px;
+}
+.sidebar-section{
+    background-color: #DFEEFF;
+}
+
+.right-side-containter{
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 180px;
+
+}
+
+.Contacts-container{
+    padding-left: 40px;
+}
+
+.contacts-header{
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.contacts-item{
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 171.429% */
+}
+
+.contacts-phone{
+    color: #4489FF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    text-decoration: none;
+}
+
+.contacts-email{
+    color: #4489FF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    text-decoration: none;
+}
+
+.contacts-element{
+    margin-top: -12px;
+}
+
+.Tech-Skills-Section{
+    padding-left: 40px;
+    margin-top: 40px;
+}
+
+.list-skills{
+    padding-left: 41.98px;
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    margin-top: -10px;
+    margin-left: -20px;
+}
+
+.Tech-Skills{
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.Soft-Skills{
+    padding-left: 40px;
+    margin-top: -10px;
+}
+
+.Soft-skills-head{
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.soft-skills-list{
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    margin-top: 10px;
+    margin-left: -15px;
+}
+
+.about-me-profession{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.about-me-name{
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.about-me-description{
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    margin-top: -15px;
+    text-align: justify;
+}
+
+.projects-section{
+    margin-top: 40px;
+}
+
+.projects-header{
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.projects-list{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 171.429% */
+    margin-left: -20px;
+    margin-top: -10px;
+}
+
+.project-name{
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    text-decoration-line: underline;
+}
+
+.project-info{
+    font-weight: 400;
+}
+
+.work-experience-section{
+    margin-top: 40px;
+}
+.work-experience-header{
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.first-company{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Job-Type{
+    color: #6096FF;
+    margin-left: 10px;
+}
+
+.period-spent{
+    color: #A8A8A8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.company-element-list{
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    margin-left: -15px;
+    margin-top: 5px;
+}
+
+.company-container{
+    margin-top: -10px;
+}
+
+.Education-container{
+    margin-top: 40px;
+}
+
+.Education-Class{
+    color: #6096FF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 10px;
+}
+
+.Job-position{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -8px;
+}
+
+.study-period-spent{
+    color: #A8A8A8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: -40px;
+    margin-top: -8px;
+    list-style-type: none;
+}
